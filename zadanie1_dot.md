@@ -39,3 +39,8 @@ docker scout cves mikitax/weather-app-dot:latest
 
 <img width="1054" height="450" alt="image" src="https://github.com/user-attachments/assets/e5c381e3-a172-44ec-b75f-278b700170c9" />
 
+##Wygląd aplikacji
+
+<img width="897" height="592" alt="image" src="https://github.com/user-attachments/assets/6c136c6a-b159-4e2b-a50a-cc79d67b207d" />
+
+
